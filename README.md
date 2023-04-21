@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Deploy with GitHub
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Manual: [Deploy with github](https://blog.logrocket.com/deploying-react-apps-github-pages/)
 
 ## Available Scripts
 
